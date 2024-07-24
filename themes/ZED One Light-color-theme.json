@@ -155,5 +155,15 @@
         "foreground": "#5c78e2"
       }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "variable": { "foreground": "#383A41" },
+    "parameter": { "foreground": "#383A41" },
+    "property": { "foreground": "#383A41" },
+    "function": { "foreground": "#5b79e3" },
+    "class": { "foreground": "#3882b7" },
+    "keyword": { "foreground": "#a449ab" },
+    "string": { "foreground": "#649f57" },
+    "number": { "foreground": "#ad6e25" }
+  }
 }

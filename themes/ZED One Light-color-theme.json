@@ -114,6 +114,12 @@
       }
     },
     {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#5b79e3"
+      }
+    },
+    {
       "scope": [
         "entity.name.type",
         "entity.other.inherited-class",

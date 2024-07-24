@@ -100,8 +100,34 @@
       "settings": {
         "foreground": "#c8ccd4"
       }
+    },
+    {
+      "scope": ["variable.language", "variable.other"],
+      "settings": {
+        "foreground": "#c8ccd4"
+      }
+    },
+    {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#d07277"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "entity.other.inherited-class"],
+      "settings": {
+        "foreground": "#6eb4bf"
+      }
+    },
+    {
+      "scope": ["tag"],
+      "settings": {
+        "foreground": "#74ade8"
+      }
     }
   ],
+  "semanticHighlighting": true,
+
   "semanticTokenColors": {
     "variable": { "foreground": "#c8ccd4" },
     "parameter": { "foreground": "#c8ccd4" },
@@ -110,6 +136,7 @@
     "class": { "foreground": "#6eb4bf" },
     "keyword": { "foreground": "#b477cf" },
     "string": { "foreground": "#a1c181" },
-    "number": { "foreground": "#bf956a" }
+    "number": { "foreground": "#bf956a" },
+    "type": { "foreground": "#6eb4bf" }
   }
 }

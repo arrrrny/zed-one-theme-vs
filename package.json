@@ -2,7 +2,7 @@
   "name": "zed-one-theme",
   "displayName": "ZED One Theme",
   "description": "ZED's style, VS Code's compromise.",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "publisher": "ARRRRNY",
   "icon": "icon.png",
   "engines": {

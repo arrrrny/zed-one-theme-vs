@@ -114,15 +114,20 @@
       }
     },
     {
-      "scope": ["storage.type", "support.type"],
+      "scope": [
+        "entity.name.type",
+        "entity.other.inherited-class",
+        "entity.name.class",
+        "entity.name.type.class"
+      ],
       "settings": {
         "foreground": "#3882b7"
       }
     },
     {
-      "scope": ["entity.name.function", "support.function"],
+      "scope": ["storage.modifier", "storage.type"],
       "settings": {
-        "foreground": "#5b79e3"
+        "foreground": "#3882b7"
       }
     },
     {
@@ -143,12 +148,7 @@
         "foreground": "#d3604f"
       }
     },
-    {
-      "scope": ["entity.name.type", "entity.other.inherited-class"],
-      "settings": {
-        "foreground": "#3882b7"
-      }
-    },
+
     {
       "scope": ["tag"],
       "settings": {
@@ -156,6 +156,7 @@
       }
     }
   ],
+  "semanticHighlighting": true,
   "semanticTokenColors": {
     "variable": { "foreground": "#383A41" },
     "parameter": { "foreground": "#383A41" },

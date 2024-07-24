@@ -31,7 +31,11 @@ If you're still reading this, you're probably procrastinating on actual coding. 
 
 [github.com/arrrrny](https://github.com/arrrrny)
 
-Why "ARRRRNY," you ask? Well, it's either because I'm a pirate who can't spell, or because I fat-fingered my keyboard when signing up and now I'm too committed to the bit to change it. Either way, it's probably more interesting than watching another VS Code extension install.
+Why "ARRRRNY," you ask? Well, it's either because I'm a pirate who can't spell, or because I fat-fingered my keyboard when signing up and now I'm too committed to the bit to change it.
+
+Of course I will never tell which is true.(neither) The mystery is half the fun. Or maybe it's all the fun.
+
+Either way, it's probably more interesting than watching another VS Code extension install.
 
 Remember, friends don't let friends use VS Code without irony. But if you must, at least do it in style with this theme. And if you see me in a dark alley, pretend you don't know me. I have a reputation to maintain in the Zed community.
 

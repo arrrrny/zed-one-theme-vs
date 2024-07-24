@@ -3,8 +3,13 @@
   "displayName": "ZED One Theme",
   "description": "ZED's style, VS Code's compromise.",
   "version": "0.0.1",
+  "publisher": "ARRRRNY",
   "engines": {
     "vscode": "^1.91.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrrrny/zed-one-theme-vs.git"
   },
   "categories": [
     "Themes"

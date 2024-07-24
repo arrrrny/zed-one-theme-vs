@@ -2,8 +2,9 @@
   "name": "zed-one-theme",
   "displayName": "ZED One Theme",
   "description": "ZED's style, VS Code's compromise.",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "ARRRRNY",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -11,9 +12,21 @@
     "type": "git",
     "url": "https://github.com/arrrrny/zed-one-theme-vs.git"
   },
+  "keywords": [
+    "theme",
+    "light theme",
+    "dark theme",
+    "one",
+    "zed"
+  ],
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
+  "bugs": {
+    "url": "https://github.com/arrrrny/zed-one-theme-vs/issues"
+  },
+  "homepage": "https://github.com/arrrrny/zed-one-theme-vs#readme",
   "contributes": {
     "themes": [
       {

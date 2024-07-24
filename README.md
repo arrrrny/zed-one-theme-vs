@@ -40,3 +40,7 @@ Either way, it's probably more interesting than watching another VS Code extensi
 Remember, friends don't let friends use VS Code without irony. But if you must, at least do it in style with this theme. And if you see me in a dark alley, pretend you don't know me. I have a reputation to maintain in the Zed community.
 
 Now go forth and code, you beautiful VS Code disaster, you!
+
+## About the Icon
+
+Our icon is a loving nod to ZED – imagine if Zed's logo had a distant cousin who decided to rebel and join the VS Code family. It's not stealing if it's family, right? (Please don't sue us, Zed. We love you!)

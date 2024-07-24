@@ -1,0 +1,26 @@
+{
+  "name": "zed-one-theme",
+  "displayName": "ZED One Theme",
+  "description": "ZED's style, VS Code's compromise.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZED One Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZED One Dark-color-theme.json"
+      },
+      {
+        "label": "ZED One Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/ZED One Light-color-theme.json"
+      }
+    ]
+  }
+}

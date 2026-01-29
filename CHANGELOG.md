@@ -2,6 +2,11 @@
 
 All notable changes to the "zed-one-theme" extension will be documented in this file.
 
+## [0.3.1] - 2026-01-29
+
+### Changed
+- Final polished adjustments to ZED-accurate borders and backgrounds.
+
 ## [0.3.0] - 2026-01-29
 
 ### Added

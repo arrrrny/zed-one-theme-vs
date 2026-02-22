@@ -58,6 +58,7 @@
     "activityBar.border": "#363C46",
     "editorGroup.border": "#363C46",
     "editorGroupHeader.tabsBorder": "#363C46",
+    "editorGroupHeader.tabsBackground": "#2F343E",
     "tab.border": "#363C46",
     "tab.lastPinnedBorder": "#363C46",
     "tab.activeBorder": "#74ADE8",

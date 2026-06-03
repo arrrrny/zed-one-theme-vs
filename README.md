@@ -41,6 +41,13 @@ Remember, friends don't let friends use VS Code without irony. But if you must, 
 
 Now go forth and code, you beautiful VS Code disaster, you!
 
-## About the Icon
+## Sponsor
 
-Our icon is a loving nod to ZED – imagine if Zed's logo had a distant cousin who decided to rebel and join the VS Code family. It's not stealing if it's family, right? (Please don't sue us, Zed. We love you!)
+[![https://zuzu.dev](./assets/zikzak-ai.png)](https://zuzu.dev) [![Sponsored by ZikZak AI](https://img.shields.io/badge/Sponsored%20by-ZikZak%20AI-8A2BE2?style=flat-square&logo=heart)](https://zuzu.dev)
+
+Thanks to ZikZak AI (Myself) for sponsoring this project!
+
+ZikZak AI is an AI-Powered Price Comparison app that you scan barcodes, and discover amazing savings instantly. Your personal shopping assistant that never sleeps.
+
+<a href="https://apps.apple.com/tr/app/zik-zak/id1563425450"><img src="assets/app-store-badge.png" width="160" style="margin-right: 8px;"></a>
+<a href="https://play.google.com/store/apps/details?id=dev.zuzu.zingo"><img src="assets/google-play-badge.png" width="160"></a>
